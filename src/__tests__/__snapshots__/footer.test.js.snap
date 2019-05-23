@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer should render correctly 1`] = `
+<ForwardRef>
+  Test
+   – © 
+  2019
+  . All Rights Reserved.
+</ForwardRef>
+`;
+
+exports[`Footer should render default props correctly 1`] = `
+<ForwardRef>
+   – © 
+  2019
+  . All Rights Reserved.
+</ForwardRef>
+`;
